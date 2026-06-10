@@ -15,6 +15,8 @@ public class GoogleSearch {
         searchBox.sendKeys("Selenium Java");
 
         searchBox.submit();
+        //kathrkiraman
+        
 
         System.out.println("Search completed");
 
