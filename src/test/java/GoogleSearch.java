@@ -7,7 +7,7 @@ public class GoogleSearch {
     public static void main(String[] args) {
 
         WebDriver driver = new ChromeDriver();
-
+        //ram
         driver.get("https://www.google.com");
         driver.manage().window().maximize();
 
